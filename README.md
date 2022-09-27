@@ -10,3 +10,6 @@
 3, Would like to be a software developer
 
 4, I play chess alot
+
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
